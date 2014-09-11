@@ -1,8 +1,7 @@
 function setup() {
   createCanvas(640, 480);
   background(175);
-  
-
+  stroke(0);
 //black
   fill(0)
   stroke(0)
@@ -86,6 +85,8 @@ stroke(255)
 	rect(130,370,10,10);
  
   //jinsou
+  
+
   line(220, 20, 280, 20);
   
   line(220, 20, 220, 30);
